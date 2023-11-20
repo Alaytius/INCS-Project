@@ -5,7 +5,7 @@
 #include <ArduinoJson.h>
 #include <WiFiClientSecure.h>
 #include <stdlib.h>
-#include <variables.h>
+#include <hiddenVariables.h>
 
 #define TRIG_PIN1 23 
 #define ECHO_PIN1 22 
